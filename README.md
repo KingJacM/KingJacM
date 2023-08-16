@@ -1,4 +1,7 @@
 # 👋 Hello there! I'm Jack (a.k.a [KingJacM](https://github.com/KingJacM))
+<p align="center">
+        <img src="banner1.gif"/>
+</p>
 
 ### Languages:
 
@@ -43,6 +46,7 @@
 ### APIs & Libraries:
 ![OpenAI](https://img.shields.io/badge/-OpenAI-00BCD4?style=for-the-badge&logo=openai&logoColor=white)
 
+<!--
 ## 🛠 Projects
 ### Miband-7 Fitness App
 A Zepp OS interval vibration fitness app for the Miband community.
@@ -63,4 +67,8 @@ A GPT-powered movie recommendation app.
 Backend Speech Recognition Web API using .NET 6 and Google Cloud libraries.
 - Tech Stack: .NET 6, Google Cloud Speech Library, Google Cloud Storage, Azure, PWA
 - [View on GitHub](https://github.com/KingJacM/NZMSA-SpeechAPI)
+-->
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
+</p>
