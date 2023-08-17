@@ -1,7 +1,9 @@
-# 👋 Hello there! I'm Jack (a.k.a [KingJacM](https://github.com/KingJacM))
+<img src="jack-ma-banner.gif"/>
+<!--
 <p align="center">
         <img src="banner1.gif"/>
 </p>
+-->
 
 ### Languages:
 
